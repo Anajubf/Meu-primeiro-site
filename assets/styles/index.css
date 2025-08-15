@@ -121,3 +121,15 @@ li:hover {
     color: rgb(118, 1, 168);
     transform: translateY(-2px);
 }
+
+footer {
+    background-color: rgb(230, 216, 255);
+    color: rgb(118, 1, 168);
+    text-align: center;
+    padding: 2rem;
+    width: 100%;
+}
+
+footer p {
+    font-size: 1rem;
+}
